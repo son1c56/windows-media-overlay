@@ -34,8 +34,8 @@
 
 | Language | Code |
 |----------|------|
-| 🇩🇪 Deutsch | `de` |
-| 🇬🇧 English | (built-in) |
-| 🇪🇸 Español | `es` |
-| 🇫🇷 Français | `fr` |
-| 🇮🇹 Italiano | `it` |
+| 🇩🇪 Deutsch | `de` (standart) |
+| 🇬🇧 English | `en` (build-in) |
+| 🇪🇸 Español | `es` (build-in) |
+| 🇫🇷 Français | `fr` (build-in) |
+| 🇮🇹 Italiano | `it` (build-in) |
