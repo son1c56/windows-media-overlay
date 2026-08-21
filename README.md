@@ -1,6 +1,6 @@
 <div>
 <img 
-  src="preview-overlay" 
+  src="preview-overlay.png" 
   alt="Windows Media Overlay Preview" 
   width="700"
 />
