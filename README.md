@@ -2,7 +2,7 @@
 <img 
   src="preview-overlay.png" 
   alt="Windows Media Overlay Preview" 
-  width="700"
+  width="300"
 />
 
 ## About / Über
